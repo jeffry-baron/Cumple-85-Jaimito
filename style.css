@@ -29,27 +29,27 @@
 
 h1 {
   font-family: "Fredoka", serif;
-  font-size: 3rem;
+  font-size: 4rem;
   text-align: center;
 }
 
 h2 {
   font-family: "fredoka", serif;
   text-align: center;
-  font-size: 2rem;
+  font-size: 3rem;
   font-weight: 400;
 }
 
 h3 {
   text-align: center;
   font-family: "Fredoka", serif;
-  font-size: 1rem;
+  font-size: 2rem;
 }
 
 p {
   text-align: center;
   font-family: "Fredoka", serif;
-  font-size: 1rem;
+  font-size: 1.8rem;
   line-height: 2.4rem;
   font-weight: 300;
 }
